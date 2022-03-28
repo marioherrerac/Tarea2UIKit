@@ -1,0 +1,84 @@
+.hrRed{
+width: 100%;
+padding: 6px;
+background-color: red;
+}
+
+.hrBlack{
+width: 100%;
+padding: 6px;
+background-color: black;         
+}
+
+i{
+color: red;
+}
+
+a:hover{
+text-decoration: none;
+}
+
+b{
+color: black;
+font-size: 25px;
+}
+
+em{
+color:black;
+font-size: 25px;
+}
+
+#bigger:hover{
+font-size: 40px;
+}
+
+b:hover{
+color:red;
+}
+
+em:hover{
+color:red;
+}
+
+p{
+color:black;
+}
+
+b > p:hover{
+color:red;
+}
+
+.redText{
+color: red;
+}
+
+u{
+color:black;
+}
+
+u:hover{
+color: red;
+}
+
+.learnMore{
+color: red;
+}
+
+.learnMore:hover{
+color:black;
+}
+
+.bar{
+border-left-style: solid;
+border-right-style: solid;
+border-left-color: black;
+border-right-color: black;
+}
+
+.navclass{
+color: white;
+}
+
+.sizeB{
+font-size:15px;
+}
